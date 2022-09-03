@@ -1,0 +1,10 @@
+axios 特点
+1. 基本 promise 的异步 ajax 请求库
+2. 浏览器端/node 端都可以使用
+3. 支持请求／响应拦截器
+4. 支持请求取消
+5. 请求/响应数据转换
+6. 批量发送多个请求
+
+axios.interceptor.request.use()
+axios.interceptor.response.use()
